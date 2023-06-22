@@ -16,7 +16,6 @@ that will include several API endpoints to fetch weather data from different sou
 ● Create an Android mobile application with a maximum of 10 screens that displays
 weather information in an easy-to-understand manner. The screens will include a home
 screen with current weather information, hourly and daily forecasts, severe weather
-alerts, a settings screen, and a search screen. We have attached some mock-up screen
-designs and a navigation diagram to illustrate the scope of our project.
+alerts, a settings screen, and a search screen.
 
 
